@@ -1,4 +1,4 @@
-Planned to be an advanced comic viewer/image feed reader that downloads the 'pages' to the local device, caching them, and allows the user to view them later.  Loosely modeled after Google Listen.
+A simple comic reader that scans and downloads images.  Loosely modeled after Google Listen.
 
 0.1.0 initial non-market beta release:
 * View Questionable Content comic
